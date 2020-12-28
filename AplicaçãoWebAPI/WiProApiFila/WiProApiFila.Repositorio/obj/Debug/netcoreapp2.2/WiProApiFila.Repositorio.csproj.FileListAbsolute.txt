@@ -1,0 +1,11 @@
+C:\Users\Rafael\source\repos\WiProApiFila\WiProApiFila.Repositorio\bin\Debug\netcoreapp2.2\WiProApiFila.Repositorio.deps.json
+C:\Users\Rafael\source\repos\WiProApiFila\WiProApiFila.Repositorio\bin\Debug\netcoreapp2.2\WiProApiFila.Repositorio.dll
+C:\Users\Rafael\source\repos\WiProApiFila\WiProApiFila.Repositorio\bin\Debug\netcoreapp2.2\WiProApiFila.Repositorio.pdb
+C:\Users\Rafael\source\repos\WiProApiFila\WiProApiFila.Repositorio\obj\Debug\netcoreapp2.2\WiProApiFila.Repositorio.csprojAssemblyReference.cache
+C:\Users\Rafael\source\repos\WiProApiFila\WiProApiFila.Repositorio\obj\Debug\netcoreapp2.2\WiProApiFila.Repositorio.AssemblyInfoInputs.cache
+C:\Users\Rafael\source\repos\WiProApiFila\WiProApiFila.Repositorio\obj\Debug\netcoreapp2.2\WiProApiFila.Repositorio.AssemblyInfo.cs
+C:\Users\Rafael\source\repos\WiProApiFila\WiProApiFila.Repositorio\obj\Debug\netcoreapp2.2\WiProApiFila.Repositorio.dll
+C:\Users\Rafael\source\repos\WiProApiFila\WiProApiFila.Repositorio\obj\Debug\netcoreapp2.2\WiProApiFila.Repositorio.pdb
+C:\Users\Rafael\source\repos\WiProApiFila\WiProApiFila.Repositorio\bin\Debug\netcoreapp2.2\WiProApiFila.Dominio.dll
+C:\Users\Rafael\source\repos\WiProApiFila\WiProApiFila.Repositorio\bin\Debug\netcoreapp2.2\WiProApiFila.Dominio.pdb
+C:\Users\Rafael\source\repos\WiProApiFila\WiProApiFila.Repositorio\obj\Debug\netcoreapp2.2\WiProApiFila.Repositorio.csproj.CopyComplete

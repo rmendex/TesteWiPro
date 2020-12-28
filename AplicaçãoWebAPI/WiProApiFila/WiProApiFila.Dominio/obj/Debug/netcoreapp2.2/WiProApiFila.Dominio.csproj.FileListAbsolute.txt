@@ -1,0 +1,8 @@
+C:\Users\Rafael\source\repos\WiProApiFila\WiProApiFila.Dominio\bin\Debug\netcoreapp2.2\WiProApiFila.Dominio.deps.json
+C:\Users\Rafael\source\repos\WiProApiFila\WiProApiFila.Dominio\bin\Debug\netcoreapp2.2\WiProApiFila.Dominio.dll
+C:\Users\Rafael\source\repos\WiProApiFila\WiProApiFila.Dominio\bin\Debug\netcoreapp2.2\WiProApiFila.Dominio.pdb
+C:\Users\Rafael\source\repos\WiProApiFila\WiProApiFila.Dominio\obj\Debug\netcoreapp2.2\WiProApiFila.Dominio.csprojAssemblyReference.cache
+C:\Users\Rafael\source\repos\WiProApiFila\WiProApiFila.Dominio\obj\Debug\netcoreapp2.2\WiProApiFila.Dominio.AssemblyInfoInputs.cache
+C:\Users\Rafael\source\repos\WiProApiFila\WiProApiFila.Dominio\obj\Debug\netcoreapp2.2\WiProApiFila.Dominio.AssemblyInfo.cs
+C:\Users\Rafael\source\repos\WiProApiFila\WiProApiFila.Dominio\obj\Debug\netcoreapp2.2\WiProApiFila.Dominio.dll
+C:\Users\Rafael\source\repos\WiProApiFila\WiProApiFila.Dominio\obj\Debug\netcoreapp2.2\WiProApiFila.Dominio.pdb

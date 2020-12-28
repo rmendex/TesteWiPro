@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="WiProApiDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="DePara">
+    <Key>
+      <PropertyRef Name="ID_MOEDA" />
+      <PropertyRef Name="COD_COTACAO" />
+    </Key>
+    <Property Name="ID_MOEDA" Type="String" MaxLength="3" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="COD_COTACAO" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="WiProApiDBEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="DePara" EntityType="Self.DePara" />
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="WiProApiDBModelStoreContainer" CdmEntityContainer="WiProApiDBEntities">
+    <EntitySetMapping Name="DePara">
+      <EntityTypeMapping TypeName="WiProApiDBModel.DePara">
+        <MappingFragment StoreEntitySet="DePara">
+          <ScalarProperty Name="ID_MOEDA" ColumnName="ID_MOEDA" />
+          <ScalarProperty Name="COD_COTACAO" ColumnName="COD_COTACAO" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

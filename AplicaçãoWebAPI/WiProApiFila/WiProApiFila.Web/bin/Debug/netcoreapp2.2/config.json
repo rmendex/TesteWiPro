@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "WiProApiFilaDB": "Server=.;Database=WiProApiDB;Integrated Security=true;"
+  }
+}
