@@ -9,8 +9,6 @@
 <i>Aplicação API utiliza CodeFirst</i>
 
 
-ENDPOINT e JSON para request:
-
 <b>EndPoint de consumo: api/item/obteritem</b>
 
 <b>EndPoint para adicionar: api/item/adicionaritem</b>
